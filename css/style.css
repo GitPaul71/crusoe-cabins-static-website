@@ -1,50 +1,3 @@
-/* Stella Orr'e - Interior and Home Renovation HTML Template  */
-
-/************ TABLE OF CONTENTS ***************
-1. Fonts
-2. Reset
-3. Global
-4. Main Header
-5. Header Style Two
-6. Header Style Three
-7. Header Style Four
-8. Header Style Five
-9. Sticky Header
-10. Page Title
-11. Section Title
-12. Services Section
-13. Projects Section / Three
-14. Fluid Section One
-15. Testimonial Section
-16. News Section / Style Two
-17. Call To Action Section
-18. Main Footer
-19. Interior Section / Style Two / Style Three
-20. Counter Section
-21. Featured Section
-22. Banner Section
-23. News Section
-24. Mission Section
-25. Team Section
-26. Contact Form Section
-27. Welcome Section
-28. Page Title
-29. Services Dark Section
-30. Services Light Section
-31. Services Detail Section
-32. Project Masonry Section
-33. Our Blog Section
-34. Blog Detail Section
-35. Shop Banner Section
-36. Shop Item Section
-37. Shoping Cart Section
-38. Checkout Section
-39. Cart Section
-40. Contact Form
-41. Map Section
-
-**********************************************/
-
 /*** 
 
 ====================================================================
@@ -169,6 +122,10 @@ h1,h2,h3,h4,h5,h6 {
 	font-style: normal;
 	font-weight: normal;
 	color: #969696;
+}
+
+.text-left {
+	text-align: left !important;
 }
 
 .content .gallery-title {
